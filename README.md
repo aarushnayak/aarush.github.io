@@ -20,7 +20,7 @@ visit the website [here.](https://ajitverma15.github.io/Interactive-Portfolio/)
 - HTML
 - CSS
 
-## Illustration and Images
+# Illustration and Images
 - [Undraw](https://undraw.co/)
 - [Hackerblock](https://hack.codingblocks.com/)
 
